@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The panther-prophesy, or, A premonition to all people of sad calamities and miseries like to befal these islands to which is added, an astrological discourse concerning that strange apparition of an army of horse seen in Wales near Mountgomery, December the 20th 1661.</title>
+            <author>Lloyd, Owen.</author>
+         </titleStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48808</idno><idno type="EEBO-CITATION">12412568</idno>
+  <idno type="VID">61565</idno>
+  <idno type="EEBO-PROQUEST">2248564112</idno>
+  
+            <idno type="STC">Wing L2665</idno>
+            <idno type="STC">ESTC R2416</idno>
+            <idno type="OCLC">12412568</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61565)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 767:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The panther-prophesy, or, A premonition to all people of sad calamities and miseries like to befal these islands to which is added, an astrological discourse concerning that strange apparition of an army of horse seen in Wales near Mountgomery, December the 20th 1661.</title>
+                  <author>Lloyd, Owen.</author>
+               </titleStmt>
+               <extent>[4], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Fifth-monarchy tract.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+               <term type="topical_term">Fifth Monarchy Men --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61565:1"/>
+            <p>THE PANTHER-PROPHESY, OR, A Premonition to all People, OF Sad CALAMTTIES and MISERIES like to befal these <hi>Islands.</hi> To which is added, An Astrological DISCOURSE Concerning That strange APPARITION of an ARMY of HORSE seen in <hi>Wales,</hi> near <hi>MOUNTGOMERY, December</hi> the 20th. 1661.</p>
+            <q>
+               <bibl>
+                  <hi>ACTS 2.17, and 19, Verses.</hi>
+               </bibl>
+               <p>Your Sons and your Daughters shall Prophesie, and your Young Men shall see Visions, and your Old Men shall dream Dreams.</p>
+               <p>And I will shew Wonders in Heaven above, and Signs in the Earth beneath: Blood, and Fire, and vapour of Smoak.</p>
+            </q>
+            <p>Printed in the Year, 1662.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:61565:2"/>
+            <pb n="7" facs="tcp:61565:2"/>
+            <head>TO THE READER</head>
+            <opener>
+               <salute>Courteous READER,</salute>
+            </opener>
+            <p>AMong the many things that Providence hath offered to our serious Considera<g ref="char:EOLhyphen"/>tion, in this Age of Wonders from Heaven, and unparallel'd Actions from Men on Earth; this following Paper falling under the special notice of some persons, hath gain'd it self no small share in their Estimation, as a piece not a little signi<g ref="char:EOLhyphen"/>ficant to the present Generation. But what it is, and how much, and how nearly it doth concern us, is left to the Judgement of every judicious Reader to pass Sentence.</p>
+            <p>Some say it is a <hi>Germane Prophesie,</hi> which a Gentleman Travelling into those Countries (searching curiously after things of this nature) found among divers others, that he thought concerned these Islands.</p>
+            <p>Others say, it's an Antient <hi>Brittish Prophesie,</hi> setting down under these Figures and Representations, what should befall great <hi>Brittain.</hi> But,</p>
+            <p>Others again say, That <hi>December, 1653.</hi> A Person of Honesty and Integrity; out of an extream sence of the Misery (which hath since been made sufficiently evident to common sence, and is daily more and more) that was coming upon his Country, as well as his own private affaires, by the Actions then on foot; fell into such a bitter Agony of Spirit, as brought him very low; and upon the <hi>28th</hi> day of the Month, in Morning about day-break, (whether asleep or awake he was not certain) that which is contained in the following Paper was presented to him: But whether it was a Vision, or a Suggestion, or a Dream, the perplexity of his Spirit hindred him from discerning.</p>
+            <p>Now, whencesoever this Paper came, or whōsoever is the Author of it, by that of it which hath been already fulfilled, it hath gain'd it self so much credit, as to be worth a serious Consideration; and the remainder of it, deserves an Esteem of a somewhat more than Probability of Performance.</p>
+            <p>There came also to my hand another Paper, although it be a Discourse of another Nature; yet, for the sake of some remarkable things in it, I thought it worth the Publishing: The occasion of the Authors writing of it, was this, That wonderful <hi>Apparition</hi> of a great Body of Horse (appearing on a Common near <hi>Mountgomery</hi> in <hi>Wales, Decemb. the 20th. 1661.</hi>) coming to the ears of a very great Person, he sends for two of the most Famous Astrologers, requiring their Judgment upon that <hi>Apparition;</hi> both of them gave him their Judgment according to the best of their Skill in Art, which occasioned this Draught of it in this Mode and Stile.</p>
+            <epigraph>
+               <q>Try all things, hold fast that which is good. Farewel.</q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="prophecy">
+            <pb facs="tcp:61565:3"/>
+            <pb n="1" facs="tcp:61565:3"/>
+            <head>THE PANTHER, OR, Premonition to all People.</head>
+            <p>
+               <table>
+                  <head>Sect. 1.</head>
+                  <row>
+                     <cell>IN this Corner is the Por<g ref="char:EOLhyphen"/>tracture of a Church Em<g ref="char:EOLhyphen"/>blimatically expressing (by a Metonimy) the Contain<g ref="char:EOLhyphen"/>ing for the Contained: Out of each Window and Door, Faces appearing, and Voices seeming to issue from them, saying, — <hi>Wee will wait for thy Salvation.</hi>
+                     </cell>
+                     <cell>In this Corner is the re<g ref="char:EOLhyphen"/>presentation of Christ in the flesh ascending to Heaven. <label>Christ</label>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>On this side stand Four Men as it were in Con<g ref="char:EOLhyphen"/>sultation. The first like a compleat Souldier in the Orna<g ref="char:EOLhyphen"/>ments and Accomodations of an eminent Com<g ref="char:EOLhyphen"/>mander, with his Sword in his Hand. The second like a perfect Lawyer in his Judges Robes, a four-corner'd Cap upon his Head, before him the Law-Book, and in his hand a Charter and Sealt o it. The third, a Citizen in a scarlet Gown, a black Hood, a gold Chain, a round flat Cap on his head, and a bag of Gold in his hand. The fourth, a Clergy-man in his Canonical Gown, his long Cassack underneath, a diminutive Band, his three-corner'd Cap, with a Bible in one hand, and a Directory in the other. From all these four goeth up a Voice, as if they were all conjoyned in one consent, saying, — <hi>We will not have this man to rule over us.</hi>
+                     </cell>
+                     <cell>On this side of the first Se<g ref="char:EOLhyphen"/>ction is a great Wood, and in the wood (scarce<g ref="char:EOLhyphen"/>ly to be discern<g ref="char:EOLhyphen"/>ed) a PANTHER. </cell>
+                  </row>
+                  <row>
+                     <cell>Underneath is the Portracture of a City with this Inscription, <hi>A certain Noble Man went into a far Countrey to receive a Kingdom for himself, but his Citi<g ref="char:EOLhyphen"/>zens hated him, and sent after him,</hi> saying, We will not have this Man to rule over us. </cell>
+                     <cell>
+                        <table>
+                           <row>
+                              <cell>
+                                 <hi>The Crescent but just upon Changing</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <table>
+                           <row>
+                              <cell>
+                                 <hi>Crescent Changing.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="2" facs="tcp:61565:4"/>
+            <p>
+               <table>
+                  <head>Sect. 2.</head>
+                  <row>
+                     <cell>In this Corner there is a CHURCH (as before) with Voices as before, saying,— <hi>Come Lord Jesus.</hi>
+                     </cell>
+                     <cell rows="6">In this Corner is Christ looking down from Hea<g ref="char:EOLhyphen"/>ven upon the <hi>Metamor<g ref="char:EOLhyphen"/>phosed</hi> Men, uttering these Expressions darting upon them, saying, <hi>The Lord will have you in derision.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Here is a Wood and the PANTHER as before.</cell>
+                  </row>
+                  <row>
+                     <cell>Here comes a Messenger to the four Men in Consultation, saying, <hi>The Marriage Supper is prepared, Come.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Lawyer answered, <hi>I have bought five yoak of Oxen and go to prove them, I pray thee have me ex<g ref="char:EOLhyphen"/>cused.</hi> The Citizen said, <hi>I have bought a Farm, and I must go to see it.</hi> The Souldier answered, <hi>I have married a Wife and I cannot come.</hi> The Clergy-man having the Picture of a Church on his right shoulder, with this Inscription, <hi>My Cure;</hi> and on his left another Church, with this Inscri<g ref="char:EOLhyphen"/>ption, <hi>An Augmentation;</hi> between both upon the middle of his back another (like <hi>Pauls</hi>) with this Inscription, <hi>A Poor Lecture of</hi> 400 <hi>a Year:</hi> The Clergy-man turns his back on the Messen<g ref="char:EOLhyphen"/>ger, and hath the Globe of the World under his arm (which he hugs fast) and his hand is point<g ref="char:EOLhyphen"/>ed out to any other Church at a distance from him, and these words go pointing from his fin<g ref="char:EOLhyphen"/>ger, <hi>I must have the advouzon of yonder small thing;</hi> and out of his mouth goeth voices, saying, <hi>Let me have the Mastership of a Colledg or be a Chaplain to a Regiment.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Here is a Wood, and the PANTHER coming out, but hides his Head between his Leggs.</cell>
+                  </row>
+                  <row>
+                     <cell>Here the Souldier, the Lawyer, the Citizen, and the Clergy-man meet again, and each seeming to excite other to admire the beauty of the PANTHER. </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">The Lawyer speaking to the Souldier, the Cler<g ref="char:EOLhyphen"/>gy-man to the Citizen, and in their approach to the PANTHER, they are all METAMORPHOSED thus, The Souldier hath a Hares Head on his Shoulders. The Lawyer a Foxes on his. The Citizen an Asses on his. The Clergy-man a Wolfs on his, and Sheeps skins hang over his Canonical Gown<g ref="char:EOLhyphen"/>shoulder.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <table>
+                           <row>
+                              <cell>
+                                 <hi>The Crescent in the first Quarter.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Underneath a City with this Inscription by it, <hi>They that embrace lying Vanities, forsake their own Mercies.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="3" facs="tcp:61565:4"/>
+            <p>
+               <table>
+                  <head>Sect. 3.</head>
+                  <row>
+                     <cell>In this Corner there is a CHURCH (as before) and Voices as before, coming out saying,— <hi>O Lord how long?</hi>
+                     </cell>
+                     <cell rows="3">In this Corner is Christ in the Clouds sitting upon his Throne, &amp; these words issue down upon the Con<g ref="char:EOLhyphen"/>junction, saying, <hi>He shall break them to pieces like a Potters Vessel.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Here on this side cometh the PANTHER clear out of the Wood, no wayes hiding himself, the Wood being behind him.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <table>
+                           <row>
+                              <cell>
+                                 <hi>The Crescent Increasing.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <p>Here in the first place it is supposed the Souldier hath offered up Himself and Sword to the PAN<g ref="char:EOLhyphen"/>THER, which is all swallowed saying the Point of the Sword and Foot of the Souldier.</p>
+                        <p>And the other three are before the PAN<g ref="char:EOLhyphen"/>THER upon their Knees.</p>
+                        <p>The Lawyer with a great Charter in his hand.</p>
+                        <p>The Citizen with a Bag of Gold in his hand.</p>
+                        <p>The Chergy-man with a Bible in one hand, and a Directory in the other; under his arm the Surplice, and the Book of Common Prayer, (hardly yet discerned.)</p>
+                        <p>And all the four are supposed to have given them<g ref="char:EOLhyphen"/>selves and their Interests to the PANTHER, who seemeth to have swallowed all but the Bible, and that sticks in his teeth, as in the next Section.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">In another Wood seemeth <hi>Philonax</hi> and his friends to come forth re<g ref="char:EOLhyphen"/>joycing, and saying, <hi>By these Revolutions we shall return to rest.</hi> And then they fall to Quaffing of a poor People, that are by them, saying, <hi>Sing us one of the Songs of Zion.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Underneath is a City and many going out of it, saying to each other, <hi>Come out of her, lest ye partake of her Plagues.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="4" facs="tcp:61565:5"/>
+            <p>
+               <table>
+                  <head>Sect. 4.</head>
+                  <row>
+                     <cell>In this Corner there is a CHURCH (as before) and Voices (as before) coming out saying,— <hi>Wo is me that I dwell in the Tents of</hi> Me<g ref="char:EOLhyphen"/>sheck.</cell>
+                     <cell rows="6">Here is Christ (as be<g ref="char:EOLhyphen"/>fore) in the Clouds on his Throne, and these Words darting down upon his People in the Wood (from whence the PANTHER came. saying, <hi>I have seen the Afflictions of my People, and am come down to deliver them.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Here is a Wood, and abundance of poor People that are fled out of the City, are at Prayers.</cell>
+                  </row>
+                  <row>
+                     <cell>In this upper Section is the PANTHER, and hath swallowed up all (as before) saving the Bible, and that sticks in his teeth, and this Voice cometh from him, <hi>O this I cannot get down.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <table>
+                           <row>
+                              <cell>
+                                 <hi>Full Moon.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Then is he standing (but as a Beast doth when he vents his Ordure) and voids the Souldier with a Dukes Coronet upon his Hares head, and a Sword by his side sheathed, with a golden Pad-lock upon it. He voides the Lawyer in his Robes with an Earls Coronet on his Foxes head, but nothing in his hand, saying, <hi>I have gotten Honour, though I have lost mine own and the Nations Charter.</hi> The Citizen is voyded with a Barrons Coronet upon his Asses head, and nothing in his hand. The Clergyman is voided in his Canonical Gown, Cassack down to his shooes (as before) his dimini<g ref="char:EOLhyphen"/>tive Band and Cuffes, his Stole about his Neck, his Scarlet Tippit and Surplice in one hand, and a Commission in the other hand, and upon the Seal Engraven, <hi>Coercive Power.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In this Sub-section the four Metamorphosed Creatures take up the PANTHER upon their Shoulders, and seem now to be one with him, and to support him.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Philonax</hi> and his Friends scornfully rejoyce and say, <hi>They think they have pulled down the Brick and intend to build with hewn Stone.</hi>
+                     </cell>
+                     <cell rows="3">A poor People are here in the Wood still mourning be<g ref="char:EOLhyphen"/>fore the Lord for the breach of Covenant, and say, <hi>Oh, my God I am ashamed, and blush to lift up my face unto thee; for our Iniquities are increased over our Heads, and our Trespasses are grown up to Heaven.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The wicked walks on every side, while the vilest of men are exalted:</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Underneath is a City with several Disorders, as <hi>Dancing</hi> and <hi>Revelling,</hi> &amp;c.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="5" facs="tcp:61565:5"/>
+            <p>
+               <table>
+                  <head>Sect. 5.</head>
+                  <row>
+                     <cell>
+                        <p>In this Corner is a Church (as before) and Voices as be<g ref="char:EOLhyphen"/>fore, saying,—<hi>Consider and hear me O Lord my God, lighten mine eyes lest I sleep the sleep of Death.</hi>
+                        </p>
+                        <p>In this Section is the PANTHER in his Pompe born up of the four Supporters, having in his mouth a Godly Man, (as it were) worrying him by the neck; then comes the</p>
+                     </cell>
+                     <cell rows="3">Here is Christ sitting in the Clouds upon his Throne, and a Voice coming from Him, saying <hi>Behold I stand at the door.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <table>
+                           <row>
+                              <cell>
+                                 <hi>Last Quarter.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In the Wood are many Praying, and saying, <hi>For thy sake are we killed all the day long, and accounted as sheep for the slaughter.</hi> Hard by them is a Castle, and many looking through the grates of the Prison.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p> In one Corner of this Section is a Company of Military Officers in fools Caps, one leading them up in a fools Cap, saying, <hi>Come, we may deceive the Souldiers, and the Countrey also.</hi>
+                        </p>
+                        <p>Near them is a Company of Lawyers in their fools Caps, led up by a Serjeant of the Quoife, and he saith, <hi>Fear not Friends, the Law's not yet down, we may have double Fees still.</hi>
+                        </p>
+                        <p>Next is a Citizen, leading up a Company of Citizens, he having his fools Cap on his Head, and they theirs off, in their hands, saying unto them, <hi>Come, we shall enjoy our Monopolies:</hi> They Answered, <hi>We fear our Gold is become Dross.</hi>
+                        </p>
+                        <p>Next to them come the Clergy, led up by a Collegiate Doctor in his Pon<g ref="char:EOLhyphen"/>tificalibus, and saith to the mad Crew of Clergy followig him (having fools Caps on their Heads) <hi>We have pull'd down the Scismaticks, and now we may quietly enjoy our Plurallities, and Tythes.</hi>
+                        </p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Philonax</hi> standing in a Corner with his Friends, is Courted by the PANTHER to come and close with him.</cell>
+                     <cell>Underneath is a City with this Inscripti<g ref="char:EOLhyphen"/>on on her Towers,</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Confusion, Confusion, Confusion.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="6" facs="tcp:61565:6"/>
+            <p>
+               <table>
+                  <head>Sect. 6.</head>
+                  <row>
+                     <cell>In this Cor<g ref="char:EOLhyphen"/>ner is a Church, and Faces (as before) saying, <hi>Come Lord Jesus.</hi>
+                     </cell>
+                     <cell>Here stands CHRIST in the Clouds with a bent Bow in his hand, an Arrow ready nocked, and a Quiver full of them by him, and hath shot abun<g ref="char:EOLhyphen"/>dance of them upon the Inhabitants of the Earth; these words come from him through the Cloudes, saying, <hi>Behold I come and my Reward is with me.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Here is first of all an Arrow shot through the PAN-THER'S Head, and he is fallen off his Supporters, having his own four Legs broken, so that he can never rise again. A Voice goeth from his Mouth, saying, <hi>He will wound the hairy scalp of every one that goeth on in his Iniquity.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <table>
+                           <row>
+                              <cell>
+                                 <hi>Quite Extinct.</hi>
+                              </cell>
+                           </row>
+                        </table>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">
+                        <p>By the one side of the PANTHER lieth the Souldier, having his Coronet lying in the dirt at a distance from him; and an Arrow shot through his Arm, so that his Arm and Sword are broken; and out of his Mouth goeth these Words, <hi>No Weapon shall prosper that is formed a<g ref="char:EOLhyphen"/>gainst Zion.</hi> His Wife (for whom he forsook Christ) is slain by an Ar<g ref="char:EOLhyphen"/>row of Pestilence, by him. </p>
+                        <p>On the other side of the PANTHER lieth the Judge upon the Pavement; his Robes torn off his Back, his Coronet upon the ground, and over his Head a broken shelf, where-upon stood the Statute Books, as <hi>Rastol, Poulton, Dalton, Litleton,</hi> and many others, and these came tumbling down upon the Lawyer, and the Statute Books broke his heads; then he saith, <hi>He hath caught the Craf-ty in his own devices; and his Oxen are driven away by the Sequestrators.</hi>
+                        </p>
+                        <p>Not far from him lieth the Citi-zen in the Dirt, without Gown, Chain, or Coronet, in a poor Black Suit and Cloak, and an Empty Purse in his Hand, with an Arrow shot thorow it; and he saith, <hi>I have been an Ass between two Burthens;</hi> And his Farme beside him, having a flaming Arrow shot thorow it, is on fire. </p>
+                        <p>Over against him lieth the Clergy-man on his Face, having an Arrow shot thorow his Back, (and this Inscription upon the Arrow, <hi>Thy Destructi<g ref="char:EOLhyphen"/>on is of thy self.</hi>) The Globe of the World is rouling from him, though he be reaching after it with both his hands, the three Churches are tumbling off his Back and Shoulders; and a Voice proceedeth from him, saying, <hi>Alas! Babylon is fallen, is fal-len, Alas!</hi>
+                        </p>
+                        <p>Then are the Souldiers, the Lawyers, and Clergy-men, and Citizens (all they that rejoyced at the Exaltation of the PANTHER) running away from the PANTHER'S destruction, each crying out, <hi>We for partaking of her Sins, must partake of her Judgements;</hi> then are the Arrows thick Shot into their Backs as they seemed to run away.</p>
+                        <p>Yea, <hi>Philonax</hi> and his Friends escapes not the common Calamity,</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Then comes the poor People out of the Wood, and Clefts of the Rocks, and the Prison Doors are set open; and from their Mouths issue Voices, saying, <hi>The Lord Reigns, let the Earth rejoyce.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Then is the City fired, and these Words there-by, <hi>As for these mine Enemies, that would not that I should Raign over them, bring them and slay them before my Face,</hi> &amp;c. <hi>And he burnt their City with Fire.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <div type="astrological_satire">
+               <pb n="7" facs="tcp:61565:6"/>
+               <head>Strange Newes from Heaven; or an unheard of Discourse hapning among the <hi>Planets,</hi> about a strange prank of <hi>Mars.</hi>
+               </head>
+               <p>IN the Western part of ♈, ♂ sends down an Incorporeal Army, consisting of 1000 Horse, (as to the Sence of Seeing) the ☽ conveyed the <hi>Relation</hi> of this <hi>Martial Prank</hi> to ☉, and ☉ commands one of ☿'s Disciples, to go down and search out the truth thereof; this <hi>Mercurian</hi> Messenger returns and Confirms the Newes upon oath before ☉, (for you must note, that unless he had sworn he should not have been believed, for Swearing is chiefly practised, and in fashion with ☉ and the Superior <hi>Planets;</hi>) Oh strange face of Heaven! But ☉ to be further satisfied, makes his solicitation to the God of Intelligence ☿, to tell him the Effects this <hi>Army Celestial</hi> might signifie and produce; ☿ much fearing the refulgent Rayes of so great a Presence, did on his Knees with Teares, humbly crave to be excused; but ☉ threatneth his destruction, and withal promised him pardon if he would tell the truth, be it of what con<g ref="char:EOLhyphen"/>cernment soever, nay, though it concerned himself; ☿ goes to his aged Father ♄, the God of hidden Misteries and Secresie, for three hours advice, which having obtained, he comes again to ☉, and tells him, that this Celestial Won<g ref="char:EOLhyphen"/>der, did presignifie the downfal of him, and all those Stars which naturally partook of his Lustre; and further said, That within two years it should be accomplished: And then will the rest of the Planets and wandering Stars, in their several constellations, bewaile the absence of their Sun.</p>
+               <p>The Sun being perplexed at this sudden and uncouth Newes, commits the business to his Privy Counsellor ♀, but ♀ being very ill dignified, minds nothing but Fudling and Lascivious Wantonness, and therefore can do ☉ no good, unless to convey it to ♃, &amp;c.</p>
+               <p>But ♃ is in a fallacious hippocritical Sign, <hi>viz.</hi> ♍, very ill dignified in the house of Bloody ♂, also stationary to Retrogradation, not minding to do much good until he come to Graple with his grand Antagonist ♄, whom he will find in his own house ♐, in <hi>October,</hi> 1663. till which time ☉ cannot expect the good due to so deserving a Planet: Before which time, ♃ invites all the Planets to his House, the first of <hi>December,</hi> 1662. to inquire and debate what ♄ and ♃ shall accomplish afterwards; and therefore at present he is worse imployed then to do ☉ any good.</p>
+               <p>Friend, <hi>this Letter is locked, and the Key given to</hi> ☿, <hi>who hath promised to de<g ref="char:EOLhyphen"/>liver it to none but his own Children.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
